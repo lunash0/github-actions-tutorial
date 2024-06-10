@@ -1,0 +1,10 @@
+{
+  "name": "github-actions-tutorial",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "mocha": "^8.3.2"
+  }
+}
